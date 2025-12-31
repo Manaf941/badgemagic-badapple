@@ -1,3 +1,13 @@
+# Bad Apple Script
+Run something equivalent to
+```sh
+sudo python ./led-badge-11x44.py \
+    -s 8 \
+    -B 100 \
+    -m 5 \
+    ":animation0.png::animation1.png::animation2.png::animation3.png::animation4.png::animation5.png::animation6.png::animation7.png:"
+```
+
 # Led-Badge-44x11
 
 Upload tool for a LED name tag with USB-HID interface
