@@ -133,3 +133,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# bad apple frames
+# I don't wanna push the music or frames to github
+bad_apple
+badapple.mp4
+
+# polygl0ts stuff, unrelated but I had that in my directory
+./polygl0ts.png
+
+node_modules
