@@ -7,6 +7,9 @@ sudo python ./led-badge-11x44.py \
     -m 5 \
     ":animation0.png::animation1.png::animation2.png::animation3.png::animation4.png::animation5.png::animation6.png::animation7.png:"
 ```
+- `-s 8` is for speed. With the provided png files, this is equivalent to `15 fps`
+- `-B 100` is for brightness. from experience, any brightness below `35` will make it not work
+- `-m 5` is for the animation mode. Basically switch between every image
 
 # Led-Badge-44x11
 
